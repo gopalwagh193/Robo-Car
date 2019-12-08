@@ -1,4 +1,6 @@
-# Robo-Car
+Bluetooth Controlled Robot using Arduino
+
+August 7, 2018 By Ravi 8 Comments
 
 In this project, I will show you how to design and develop a Bluetooth Controlled Robot using Arduino, HC-05 Bluetooth Module and L298N Motor Driver Module. On the other end of the Bluetooth Communication, I will be using a Smart Phone and a simple Android App to control the Robotic Car.
 
